@@ -1,0 +1,17 @@
+Its a simulation of a calculator.
+* When the screen is blank, you can only start by
+entering a number.
+* There are no unary operators. After typing a
+number you can type one of the four
+operators ('+', '-', '*', '/') followed by additional
+numbers.
+* If you type a second operator the previous value is
+evaluated and used as the next input.
+* After you have typed at least two numbers with an
+operator in between you can press equals to ('=')
+operator at any point in time.
+After the '=' operator is pressed no subsequent input
+will be accepted except for clear.
+* At any point in time you can press clear to reset.
+Lastly, if calculator is in error state you can only
+press clear to reset it.
