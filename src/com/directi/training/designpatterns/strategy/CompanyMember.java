@@ -37,8 +37,8 @@ public abstract class CompanyMember
 
     public void setName(String name) throws ValidationFailedException
     {
-        validateLength(name, 50);
         notEmpty(name);
+        validateLength(name, 50);
         _name = name;
     }
 
