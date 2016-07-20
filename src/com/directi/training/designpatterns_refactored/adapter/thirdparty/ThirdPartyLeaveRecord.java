@@ -1,6 +1,4 @@
-package com.directi.training.designpatterns.adapter.thirdparty;
-
-import com.directi.training.designpatterns_refactored.adapter.thirdparty.Employee;
+package com.directi.training.designpatterns_refactored.adapter.thirdparty;
 
 import java.util.HashMap;
 import java.util.Map;
